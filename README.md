@@ -1,6 +1,11 @@
 # assignment
 
-> A Vue.js project
+> A vuejs app that visualizes data from a firebase database. The data from the database is retrieved using
+API call method. The application visualizes blood-groups and the corresponding number of people based on 
+information contained in the database.
+
+Bar chart from highcharts library was used for visual representation of information and firebase was used
+to create the database used in this project.t
 
 ## Build Setup
 
